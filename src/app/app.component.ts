@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'filas-angular';
+  esClaseA = true;
+  esClaseB = true;
+  
+  fecha = new Date ();
 }

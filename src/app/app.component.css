@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    background-color: #cfbaf0;
+}
+h2{
+    font-size: 30px;
+    padding: 10px;
+    background-color: #a3c4f3;
+}
+p{
+    font-size: 20px;
+    padding: 5px;
+    text-align: right;
+    background-color: #ffcfd2;
+}
+.claseA{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #98f5e1;
+}
+.claseB{
+    font-size: 25px;
+    font-weight: 300;
+    padding: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #b9fbc0;
+}
